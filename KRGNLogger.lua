@@ -3768,4 +3768,3 @@ Player.CharacterAdded:Connect(function(Character)
     task.wait(0.5)
     WatchLocalCharacter(Character)
 end)
-</param>
